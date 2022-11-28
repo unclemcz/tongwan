@@ -14,5 +14,5 @@ https://www.wotiku.cn/tongwan/
 
 3. npm run dev
 
-## 编译
+## 打包
 4. npm run build

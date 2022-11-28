@@ -1,6 +1,7 @@
 # 童玩tongwan
 
 ## 说明
+由[vue3](https://cn.vuejs.org/)、[bootstrap5](https://getbootstrap.com/)驱动。
 个人学习用，还在编写中。
 
 ## 演示地址

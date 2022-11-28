@@ -1,15 +1,9 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="container">
+    <h2>一个可以和你的小孩一起学习汉字、数字、以及几何图形的地方，已适配<a target="_blank" href="https://consumer.huawei.com/cn/tablets/matepad-paper/">华为MatePad Paper</a>。</h2>
   </div>
 </template>
 
 <style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-}
+
 </style>

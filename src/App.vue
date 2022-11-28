@@ -1,11 +1,12 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
+import theheader from './components/theheader.vue'
+import myfooter from './components/thefooter.vue'
 </script>
 
 <template>
   <header>
-    <HelloWorld/>
+    <theheader/>
   </header>
   <RouterView />
 </template>

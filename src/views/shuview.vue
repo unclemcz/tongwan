@@ -33,12 +33,4 @@ const shuzi = ref(random(max));
   /* line-height: 20vh; */
 }
 
-@media (min-width: 1024px) {
-  .shuzi {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    /* font-size: 10rem; */
-  }
-}
 </style>

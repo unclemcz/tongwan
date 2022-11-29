@@ -8,11 +8,12 @@
 https://www.wotiku.cn/tongwan/
 
 ## 本地运行
+```bash
 1. git clone https://github.com/unclemcz/tongwan.git
-
 2. npm install
-
 3. npm run dev
-
+```
 ## 打包
+```bash
 4. npm run build
+```

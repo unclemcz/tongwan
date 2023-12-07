@@ -21,6 +21,12 @@ import { RouterLink, RouterView } from 'vue-router'
             <RouterLink class="nav-link" to="/shu">数字</RouterLink>
           </li>
           <li class="nav-item">
+            <RouterLink class="nav-link" to="/jia">加法</RouterLink>
+          </li>
+          <li class="nav-item">
+            <RouterLink class="nav-link" to="/cheng">乘法</RouterLink>
+          </li>
+          <li class="nav-item">
             <RouterLink class="nav-link" to="/shi">古诗</RouterLink>
           </li>
           <li class="nav-item">
